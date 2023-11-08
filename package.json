@@ -1,6 +1,12 @@
 {
 	"name": "custom-bootstrap-tool",
 	"source": ["src/index.html", "src/sass/_custom-bootstrap.scss"],
+	"author": {
+		"name": "carlosmachina",
+		"email": "carlosmachina@carlosmachina.dev"
+	},
+	"license": "MIT",
+	"version": "1.0.0",
 	"scripts": {
 		"start": "parcel",
 		"build": "parcel build"
